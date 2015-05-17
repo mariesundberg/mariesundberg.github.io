@@ -1,0 +1,43 @@
+---
+
+---
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Marie Sundberg - {{ page.title }}</title>
+
+	<meta charset="utf-8">
+	
+	<link href='http://fonts.googleapis.com/css?family=Philosopher:400,700|Allerta|Montserrat|Allerta+Stencil' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Roboto:400,100' rel='stylesheet' type='text/css'>
+
+	<link rel="stylesheet" type="text/css" href="{{site.baseurl}}/css/reset.css">
+	<link rel="stylesheet" type="text/css" href="{{site.baseurl}}/css/styles.css">
+	<link rel="stylesheet" type="text/css" href="{{site.baseurl}}/css/tablet.css" media="all and (min-width: 600px)">
+	<link rel="stylesheet" type="text/css" href="{{site.baseurl}}/css/large.css" media="all and (min-width: 1000px)">
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+
+</head>
+<body>
+	<div class="content">
+		<h1>Marie Sundberg</h1>
+		<h2>Textilkonstnär</h2>
+		<nav>
+			<div class="line"></div>
+			<a href="{{site.baseurl}}/index.html">Projekt</a>
+			|
+			<a href="{{site.baseurl}}/about.html">Om mig</a>
+			|
+			<a href="{{site.baseurl}}/cv.html">CV</a>
+			|
+			<!-- <a href="{{site.baseurl}}/about.html">Om mig</a>
+			| -->
+			<a href="{{site.baseurl}}/contact.html">Kontakt</a>
+			<div class="line"></div>
+		</nav>
+		{{content}}
+	</div>
+</body>
+</html>

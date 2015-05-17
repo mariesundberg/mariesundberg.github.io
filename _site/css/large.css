@@ -1,0 +1,55 @@
+
+h1 {
+	font-size: 4.0em;
+	margin-bottom: 50px;
+}
+
+h2 {
+	font-size: 2.0em;
+	margin-bottom: 50px;
+}
+
+.content {
+	padding: 5em 5em;
+}
+
+nav {
+	margin-bottom: 100px;
+}
+
+nav a {
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+.line {
+	display: inline-block;
+	width: 60px;
+}
+
+img {
+	margin-left: 10%;
+	width: 80%;
+}
+
+.left-column {
+	width: 40%;
+	float: left;
+}
+
+.right-column {
+	width: 60%;
+	float: left;
+}
+
+.portfolio-img {
+	width: 100%;
+	margin: 0px;
+	margin-bottom: 0px;
+}
+
+.submenu a {
+	display: block;
+	text-align: left;
+}
+
