@@ -177,12 +177,13 @@ strong {
 
 .cv-text {
     /*text-align: center;*/
-    font-size: 0.8em;
+    font-size: 1.0em;
     letter-spacing: 0.12em;
     line-height: 1.4em;
     text-align: normal; /* justify; */
     margin: 20px;
     color: #000;
+    font-weight: 200;
 }
 
 .project-description {
