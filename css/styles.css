@@ -175,6 +175,16 @@ strong {
     margin: 20px;
 }
 
+.cv-text {
+    /*text-align: center;*/
+    font-size: 0.8em;
+    letter-spacing: 0.12em;
+    line-height: 1.4em;
+    text-align: normal; /* justify; */
+    margin: 20px;
+    color: #000;
+}
+
 .project-description {
     font-size: 1.0em;
     margin-bottom: 2em;
