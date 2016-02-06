@@ -186,6 +186,11 @@ strong {
     font-weight: 200;
 }
 
+.cv-title {
+    font-size: 1.2em;
+    letter-spacing: 0.12em;
+}
+
 .project-description {
     font-size: 1.0em;
     margin-bottom: 2em;
