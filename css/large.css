@@ -53,3 +53,20 @@ img {
 	text-align: left;
 }
 
+.cv-text {
+    font-size: 1.0em;
+    letter-spacing: 0.12em;
+    line-height: 1.4em;
+    font-weight: 200;
+}
+
+.cv-title {
+    font-size: 1.2em;
+    letter-spacing: 0.12em;
+}
+
+.cv {
+    width: 700px;
+    /* background-color: red; */
+    margin: 0px auto;
+}

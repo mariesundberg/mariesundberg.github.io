@@ -177,7 +177,7 @@ strong {
 
 .cv-text {
     /*text-align: center;*/
-    font-size: 1.0em;
+    font-size: 0.8em;
     letter-spacing: 0.12em;
     line-height: 1.4em;
     text-align: normal; /* justify; */
@@ -187,8 +187,9 @@ strong {
 }
 
 .cv-title {
-    font-size: 1.2em;
+    font-size: 1.0em;
     letter-spacing: 0.12em;
+    margin-top:3em;
 }
 
 .project-description {
